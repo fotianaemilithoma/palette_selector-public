@@ -26,7 +26,7 @@
 
 | Contrast Checker |
 | --- |
-| ![Contrast checker](random_palette_generator.png) |
+| ![Contrast checker](contrast_checker.png) |
 
 ## Features
 
