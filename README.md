@@ -1,7 +1,5 @@
 # Palette Selector
 
-A Django web app for generating color palettes from images, live websites, named color moods, or a custom canvas — with lock-and-regenerate, an accessibility contrast checker, and saved favorites.
-
 > The full source code lives in a private repository. This repo exists to share the project's scope, design decisions, and screenshots with recruiters and hiring managers. Access to the private repo can be granted on request.
 
 ## Tech stack
