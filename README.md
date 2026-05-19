@@ -18,11 +18,15 @@
 
 | Image extraction | Website extraction |
 | --- | --- |
-| ![Image generator](screenshots/image-generator.png) | ![Website generator](screenshots/website-generator.png) |
+| ![Image generator](image_palette_generator.png) | ![Website generator](website_palette_generator.png) |
 
-| Random palette (26 named moods) | Contrast checker |
+| Random palette (26 named moods) | Custom palette |
 | --- | --- |
-| ![Random generator](screenshots/random-generator.png) | ![Contrast checker](screenshots/contrast-checker.png) |
+| ![Random generator](random_palette_generator.png) | ![Custom generator](custom_palette_generator.png) |
+
+| Contrast Checker |
+| --- |
+| ![Contrast checker](random_palette_generator.png) |
 
 ## Features
 
