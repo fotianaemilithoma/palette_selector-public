@@ -43,4 +43,4 @@
 - **Accounts** — sign up, save palettes as favorites, light/dark/system theme with both server-side preference (for signed-in users) and cookie fallback (for guests).
 - **Defensive** — the website extractor rejects non-`http(s)` URLs and hostnames that resolve to private, loopback, link-local, or multicast addresses (SSRF guard).
 
-Built by **Fotiana** — get in touch if you'd like a walkthrough or access to the private source repo.
+Built by **Fotiana**, get in touch if you'd like a walkthrough or access to the private source repo.
