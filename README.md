@@ -45,5 +45,3 @@
 - **Color tools** — blend between two palette colors; sort by hue, lightness, frequency, or RGB channel.
 - **Accounts** — sign up, manage email/password, delete account, and choose a light/dark/system theme stored as a server-side preference for signed-in users with a cookie fallback for guests.
 - **Defensive** — the website extractor rejects non-`http(s)` URLs and hostnames that resolve to private, loopback, link-local, multicast, or reserved addresses (SSRF guard).
-
-Built by **Fotiana** — get in touch if you'd like a walkthrough or access to the private source repo.
