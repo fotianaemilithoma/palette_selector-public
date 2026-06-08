@@ -1,6 +1,9 @@
 # Palette Selector
 
-> The full source code lives in a private repository. This repo exists to share the project's scope, design decisions, and screenshots with recruiters and hiring managers.
+[![Live Demo](https://img.shields.io/badge/%F0%9F%8E%A8_Live_Demo-palette--selector.onrender.com-2ea44f?style=for-the-badge)](https://palette-selector.onrender.com/)
+> ⏳ Hosted on Render's free tier. The first load may take ~30s to wake the server.
+
+> 🔒 The full source code lives in a private repository. This public repo shares the project's scope, design decisions, and screenshots for recruiters and hiring managers.
 
 ## Tech stack
 
