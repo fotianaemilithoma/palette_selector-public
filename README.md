@@ -1,6 +1,6 @@
 # Palette Selector
 
-> The full source code lives in a private repository. This repo exists to share the project's scope, design decisions, and screenshots with recruiters and hiring managers. Access to the private repo can be granted on request.
+> The full source code lives in a private repository. This repo exists to share the project's scope, design decisions, and screenshots with recruiters and hiring managers.
 
 ## Tech stack
 
